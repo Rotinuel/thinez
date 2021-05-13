@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/thinez/static/css/main.678e5844.chunk.css",
+    "main.js": "/thinez/static/js/main.b9aa5b79.chunk.js",
+    "main.js.map": "/thinez/static/js/main.b9aa5b79.chunk.js.map",
+    "runtime-main.js": "/thinez/static/js/runtime-main.cb121888.js",
+    "runtime-main.js.map": "/thinez/static/js/runtime-main.cb121888.js.map",
+    "static/js/2.6c056c2c.chunk.js": "/thinez/static/js/2.6c056c2c.chunk.js",
+    "static/js/2.6c056c2c.chunk.js.map": "/thinez/static/js/2.6c056c2c.chunk.js.map",
+    "index.html": "/thinez/index.html",
+    "static/css/main.678e5844.chunk.css.map": "/thinez/static/css/main.678e5844.chunk.css.map",
+    "static/js/2.6c056c2c.chunk.js.LICENSE.txt": "/thinez/static/js/2.6c056c2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb121888.js",
+    "static/js/2.6c056c2c.chunk.js",
+    "static/css/main.678e5844.chunk.css",
+    "static/js/main.b9aa5b79.chunk.js"
+  ]
+}
